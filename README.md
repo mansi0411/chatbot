@@ -2,6 +2,11 @@
 
 Minimal web-based AI chat interface prototype. Includes a simple static frontend (HTML, CSS, JavaScript) that demonstrates a chat container, prompt input, and basic UI for image upload and message submission.
 
+## Live Demo
+Visit the live deployment at:
+
+https://chatbot-five-snowy.vercel.app/
+
 ## Features
 - Static HTML UI for a chat assistant
 - Image upload button (UI only)
